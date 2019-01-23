@@ -25,4 +25,4 @@ Java + SpringBoot + Thymeleaf + Gradle + HTML + CSS + Bootstrap
 Diving deeper into MySQL, Further experimentation with Front End Design, Possible incorporation of data feeds from suppliers
 
 ### Project Tracker
-https://www.pivotaltracker.com/n/projects/2237415
+https://www.pivotaltracker.com/n/projects/2240310
