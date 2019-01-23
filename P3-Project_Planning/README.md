@@ -24,4 +24,4 @@ https://www.pivotaltracker.com/n/projects/2240310
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/jjstonebarger/salessamurai
