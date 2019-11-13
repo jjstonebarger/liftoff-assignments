@@ -13,4 +13,4 @@ https://github.com/jjstonebarger
 https://www.linkedin.com/in/jjstonebarger/
 
 ### Resume
-https://www.dropbox.com/s/nbpi31b0e23ow0n/jj.stonebarger.resume.pdf?dl=0
+https://www.dropbox.com/s/t8npkjuzbj4l3z6/Justin%20J.%20Stonebarger%20Resume.pdf?dl=0
